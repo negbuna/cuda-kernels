@@ -1,4 +1,4 @@
-# kernels
+# cuda-kernels
 
 FP32 SGEMM in CUDA, written in three steps, from a basic shared-memory tile up to **86.8% of cuBLAS** on an NVIDIA A10.
 
